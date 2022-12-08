@@ -8,6 +8,7 @@ A template for implementing firebase authentication in React
 - run `npm install`
 - copy `.env.example` and rename to `.env`
 - add firebase credentials to `.env`
+- start the dev server with `npm run dev` command
 
 ## General notes regarding firebase
 
